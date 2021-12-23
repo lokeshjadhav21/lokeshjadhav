@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokesh Jadhav
 - 👀 I’m interested in data science projects
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning Bsc. in Programming and Data science from IIT Madras.
 - 💞️ I’m looking to collaborate on python programming
 
 
